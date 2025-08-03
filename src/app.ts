@@ -57,8 +57,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://watneycollegeform.netlify.app",
-      "https://app.watneycollege.co.uk",
+      "https://medicarez.netlify.app",
     ],
     credentials: true,
   })
